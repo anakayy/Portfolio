@@ -1,8 +1,8 @@
 # Portfolio
 
-This is my Portfolio homework
+This week we had to buid a portfolio from scratch.
 
-These were the criteria:
+Homework criteria:
 
 ```
 GIVEN I need to sample a potential employee's previous work
